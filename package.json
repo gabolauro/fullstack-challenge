@@ -1,0 +1,20 @@
+{
+  "name": "fullstack_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/gabolauro/fullstack-challenge.git"
+  },
+  "author": "Gabriel Laurito",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "promise-mysql": "^3.3.1"
+  }
+}
