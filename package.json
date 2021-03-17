@@ -2,9 +2,9 @@
   "name": "fullstack-challenge",
   "version": "1.0.0",
   "description": "",
-  "main": "build/index.js",
+  "main": "build/src/index.js",
   "scripts": {
-    "start": "node build/index.js",
+    "start": "node build/src/index.js",
     "build": "tsc -w",
     "dev": "nodemon build/src/index.js"
   },
